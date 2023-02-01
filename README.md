@@ -25,3 +25,13 @@ Requeriments
     <li>El programa ha de ser capaç de crear un servidor al que es puguin connectar les controladores</li>
     <li>El programa ha de ser capaç de comunicar-se eficientment i de manera segura amb les controladores</li>
 </ul>
+
+<h2>
+Documentació
+</h2>
+<p>
+La documentació necessaria la trobareu a la carpeta de Docs i/o com a enllaços a la següent llista:
+</p>
+<ul>
+    <li>PDF Software Controlador ABB <a href="Docs/3HAC050798 AM Controller software IRC5-en.pdf">3HAC050798 AM Controller software IRC5-en</a>: descriu com és el procès de comunicació entre robot i pc (Veure punt 8 Communication)</li>
+</ul>
