@@ -16,6 +16,9 @@ Objectius
 El programa (escrit en C++ a poder ser, encara que també s'està contemplant der-ho en Java) consisteix de dues parts:
 El frontend, una GUI on l'usuari pugui seleccionar un tipus de menjar i personalitzar-ho, i el backend, on es realitzaràn totes les comunicacnions pc-robot.
 </p>
+<p>
+El SO de l'ordinador serà Windows.
+</p>
 
 <h2>
 Requeriments
