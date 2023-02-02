@@ -1,4 +1,4 @@
-#include "Window.h"
+#include "../headers/Window.h"
 
 LRESULT CALLBACK WindowProc(HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam)´
 {

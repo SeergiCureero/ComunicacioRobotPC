@@ -1,8 +1,8 @@
 #include <iostream>
-#include "Window.h"
+#include "../headers/Window.h"
 
 int main(){
-    std::cout << "Creant una finestra\n"
+    std::cout << "Creant una finestra\n";
 
     Window* pWindow = new Window();
 
@@ -11,7 +11,7 @@ int main(){
     {
         if(!pWindow->ProcessMessages())
         {
-            std::cout << "Tancant la finestra\n"
+            std::cout << "Tancant la finestra\n";
             running = false;
         }
 
